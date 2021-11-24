@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">23Nov - Evi</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Register</string>
+    <string name="action_sign_in_short">nose</string>
+</resources>
